@@ -1,4 +1,4 @@
-## Aircraft traffics test
+## Aircraft traffics
 > - Buy stocks
 > - recover them
 > - sell stocks more expensive
